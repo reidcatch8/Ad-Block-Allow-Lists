@@ -1,2 +1,2 @@
-# Ad-Block-Allow-Lists
+# AdblockHome Block & Allow Lists
 Adblock-Home Block &amp; Allow Lists

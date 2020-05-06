@@ -27,3 +27,9 @@ s.shopify.com
 keystone.mwbsys.com
 dl.dropbox.com
 api.ipify.org
+nzbgeek.info
+api.nzbgeek.info
+api.nzb.su
+nzb.su
+api.trakt.tv
+trakt.tv

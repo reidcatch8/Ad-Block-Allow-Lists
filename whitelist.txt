@@ -5,6 +5,7 @@ clients4.google.com
 clients5.google.com
 www.google.com
 google.com
+www.youtube.com
 www.bit.ly
 bit.ly
 ow.ly

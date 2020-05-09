@@ -1,3 +1,5 @@
+dynamicdns.park-your-domain.com
+namecheap.com
 s3.amazonaws.com
 clients2.google.com
 clients3.google.com

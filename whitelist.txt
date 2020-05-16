@@ -154,4 +154,4 @@ prod.telemetry.ros.rockstargames.com
 tracking.epicgames.com
 79423.analytics.edgekey.net
 static-assets-prod.epicgames.com
-reidology.net
+*.reidology.net

@@ -1,3 +1,4 @@
+comptia.org
 dynamicdns.park-your-domain.com
 namecheap.com
 s3.amazonaws.com

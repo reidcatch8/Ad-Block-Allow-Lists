@@ -1,3 +1,15 @@
+omv-01.reidology.net
+apps.reidology.net
+cloud.reidology.net
+media.reidology.net
+media1.reidology.net
+music.reidology.net
+ombi.reidology.net
+adguard.reidology.net
+lidarr.reidology.net
+radarr.reidology.net
+sonarr.reidology.net
+nginx-man.reidology.net
 comptia.org
 *.newshosting.com
 newshosting.com
